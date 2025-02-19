@@ -162,6 +162,10 @@ Make sure to go through this checklist before submitting your tech test solution
 
 [JustEat](https://github.com/justeat/JustEat.RecruitmentTest)
 
+[Moonpig Front End](https://github.com/Moonpig/tech-test-frontend)
+
+[GumTree Quality Engineering](https://github.com/gumtreeuk/technical-assignment-qa)
+
 ### Further Reading
 
 [How To Write A Git Commit Message](https://chris.beams.io/posts/git-commit/)
